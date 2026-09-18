@@ -1,2 +1,2 @@
 # Aminucyberintelligent
-A repository for cybersecurity scripts and security tools
+A repository for cybersecurity scripts and security tools.
