@@ -18,13 +18,13 @@ A repository for cybersecurity scripts and security tools.
 
 ## 1. Passive Reconnaissance
 - [x] WHOIS / Registrar info
-- [ ] Certificate Transparency (`crt.sh`)
-- [ ] Subdomain Enumeration (`subfinder`, `amass`)
-- [ ] Technology Stack Identification (`Wappalyzer`, `BuiltWith`)
+- [x] Certificate Transparency (`crt.sh`)
+- [x] Subdomain Enumeration (`subfinder`, `amass`)
+- [x] Technology Stack Identification (`Wappalyzer`, `BuiltWith`)
 
 ## 2. Active Reconnaissance
 - [x] Port Scanning (`nmap`)
-- [ ] Live Host Discovery (`httpx`)
+- [x] Live Host Discovery (`httpx`)
 - [x] Directory & Parameter Fuzzing (`ffuf`, `dirsearch`)
 
 ---
@@ -35,7 +35,7 @@ A repository for cybersecurity scripts and security tools.
 - **Interesting Endpoints / Admin Panels:**
 
 ## 4. Potential Vulnerabilities / Next Steps
-- [ ] Check for Subdomain Takeover
-- [ ] Test Authentication & Logic Flaws
+- [x] Check for Subdomain Takeover
+- [x] Test Authentication & Logic Flaws
 - [x] Check OWASP Top 10 vulnerabilities
-- [ ] 
+- [x] 
