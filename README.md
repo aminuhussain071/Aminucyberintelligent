@@ -3,11 +3,11 @@ A repository for cybersecurity scripts and security tools.
 # Recon Notes
 
 ## Target Information
-- **Name:** 
-- **Program/Scope URL:** 
-- **In-scope Assets:** 
-- **Out-of-scope:** 
-- **Date Started:** 
+- **Name:Google 
+- **Program/Scope URL:[https://bughunters.google.com] 
+- **In-scope Assets:www.google.com
+- **Out-of-scope:Physical attacks 
+- **Date Started: 2026-09-20
 
 ### Rules of Engagement
 - [x] Read program policy
@@ -17,7 +17,7 @@ A repository for cybersecurity scripts and security tools.
 ---
 
 ## 1. Passive Reconnaissance
-- [ ] WHOIS / Registrar info
+- [x] WHOIS / Registrar info
 - [ ] Certificate Transparency (`crt.sh`)
 - [ ] Subdomain Enumeration (`subfinder`, `amass`)
 - [ ] Technology Stack Identification (`Wappalyzer`, `BuiltWith`)
