@@ -23,9 +23,9 @@ A repository for cybersecurity scripts and security tools.
 - [ ] Technology Stack Identification (`Wappalyzer`, `BuiltWith`)
 
 ## 2. Active Reconnaissance
-- [ ] Port Scanning (`nmap`)
+- [x] Port Scanning (`nmap`)
 - [ ] Live Host Discovery (`httpx`)
-- [ ] Directory & Parameter Fuzzing (`ffuf`, `dirsearch`)
+- [x] Directory & Parameter Fuzzing (`ffuf`, `dirsearch`)
 
 ---
 
@@ -37,5 +37,5 @@ A repository for cybersecurity scripts and security tools.
 ## 4. Potential Vulnerabilities / Next Steps
 - [ ] Check for Subdomain Takeover
 - [ ] Test Authentication & Logic Flaws
-- [ ] Check OWASP Top 10 vulnerabilities
+- [x] Check OWASP Top 10 vulnerabilities
 - [ ] 
