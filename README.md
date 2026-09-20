@@ -10,22 +10,22 @@ A repository for cybersecurity scripts and security tools.
 - **Date Started: 2026-09-20
 
 ### Rules of Engagement
-- [x] Read program policy
-- [x] Confirmed written authorization
-- [x] Noted rate limits and restrictions
+- [ ] Read program policy
+- [ ] Confirmed written authorization
+- [ ] Noted rate limits and restrictions
 
 ---
 
 ## 1. Passive Reconnaissance
-- [x] WHOIS / Registrar info
-- [x] Certificate Transparency (`crt.sh`)
-- [x] Subdomain Enumeration (`subfinder`, `amass`)
-- [x] Technology Stack Identification (`Wappalyzer`, `BuiltWith`)
+- [ ] WHOIS / Registrar info
+- [ ] Certificate Transparency (`crt.sh`)
+- [ ] Subdomain Enumeration (`subfinder`, `amass`)
+- [ ] Technology Stack Identification (`Wappalyzer`, `BuiltWith`)
 
 ## 2. Active Reconnaissance
-- [x] Port Scanning (`nmap`)
-- [x] Live Host Discovery (`httpx`)
-- [x] Directory & Parameter Fuzzing (`ffuf`, `dirsearch`)
+- [ ] Port Scanning (`nmap`)
+- [ ] Live Host Discovery (`httpx`)
+- [ ] Directory & Parameter Fuzzing (`ffuf`, `dirsearch`)
 
 ---
 
@@ -35,7 +35,7 @@ A repository for cybersecurity scripts and security tools.
 - **Interesting Endpoints / Admin Panels:**
 
 ## 4. Potential Vulnerabilities / Next Steps
-- [x] Check for Subdomain Takeover
+- [ ] Check for Subdomain Takeover
 - [ ] Test Authentication & Logic Flaws
-- [x] Check OWASP Top 10 vulnerabilities
-- [x] 
+- [ ] Check OWASP Top 10 vulnerabilities
+- [ ] 
