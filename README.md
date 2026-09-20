@@ -6,7 +6,7 @@ A repository for cybersecurity scripts and security tools.
 - **Name:Google 
 - **Program/Scope URL:[https://bughunters.google.com] 
 - **In-scope Assets:www.google.com
-- **Out-of-scope:Physical attacks 
+- **Out-of-scope:------- 
 - **Date Started: 2026-09-20
 
 ### Rules of Engagement
