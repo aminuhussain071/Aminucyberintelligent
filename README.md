@@ -36,6 +36,6 @@ A repository for cybersecurity scripts and security tools.
 
 ## 4. Potential Vulnerabilities / Next Steps
 - [x] Check for Subdomain Takeover
-- [x] Test Authentication & Logic Flaws
+- [ ] Test Authentication & Logic Flaws
 - [x] Check OWASP Top 10 vulnerabilities
 - [x] 
